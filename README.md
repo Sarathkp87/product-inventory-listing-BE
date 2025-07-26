@@ -9,13 +9,8 @@ This is the Express backend for the Product Inventory Management app. It connect
    ```
    npm install
    ```
-2. Create a `.env` file with the MongoDB connection string:
-   ```
-   MONGO_URI=mongodb+srv://sr3:denada@product-inventory-app.kialzh5.mongodb.net/
-   PORT=3001
-   ```
 
-3. Start the server (with automatic reloads):
+2. Start the server (with automatic reloads):
    ```
    npm run dev
    ```
